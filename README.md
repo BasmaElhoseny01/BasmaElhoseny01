@@ -14,6 +14,7 @@
 
 ## 📞Connect with me:
 <div align="center">
+
 <a href="mailto:basmaelhoseny6@gmail.com">
   <img align="left" alt="Basma's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
@@ -41,13 +42,18 @@
 <a href="https://www.hackerrank.com/basmaelhoseny6">
   <img align="left" alt="basma's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
+
 </div>
 
 <br />
 <br />
 
 ## 👩About Me:
-- 🔭 I’m currently working on learning embbedded system, Back-end development.
+- 🔭 I’m currently working on learning an embbedded system, and Arduino.
+ 🌱 I’m currently learning to develop my probelm solving skiils.
+- 👯 I’m looking to collaborate on Developing Flutter Project.
+- 🤔 I’m looking for help with embedded systems
+- 💬 Ask me about software development using C++.
 
 ## 💻Languages:
 
