@@ -19,7 +19,7 @@
   <img align="left" alt="Basma's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
 
-<a href="www.linkedin.com/in/basma-elhoseny-00108a1b3">
+<a href="www.linkedin.com/in/BasmaElhoseny01">
   <img align="left" alt="Basma's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"       draggable="false" />
 </a>
 
